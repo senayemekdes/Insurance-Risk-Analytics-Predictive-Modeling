@@ -11,6 +11,7 @@ ENV/
 
 # Data files (raw data should be tracked by DVC, not Git)
 data/*.csv
+data/*.txt
 data/*.parquet
 data/*.xlsx
 *.csv
